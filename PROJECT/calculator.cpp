@@ -21,5 +21,14 @@ void addition()
 {
     int a = 10,b = 5;
     cout << "Addition = "<< a + b<< endl;
-   // addition function is added by  fgd
+   // addition function is added by 
+}
+void multiplication()
+{
+    int a = 10;
+    int b = 5;
+
+    cout << "Multiplication = "
+         << a * b
+         << endl;
 }
