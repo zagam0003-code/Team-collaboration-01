@@ -14,6 +14,12 @@ int main()
     addition();
     subtraction();
     multiplication();
-
     return 0;
+}
+
+void addition()
+{
+    int a = 10,b = 5;
+cout << "Addition = "<< a + b<< endl;
+
 }
